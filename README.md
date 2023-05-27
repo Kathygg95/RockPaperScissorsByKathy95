@@ -28,7 +28,8 @@ https://github.com/Kathygg95/RockPaperScissorsByKathy95
 <img width="265" alt="image" src="https://github.com/Kathygg95/RockPaperScissorsByKathy95/assets/133057798/27ed1cd9-d84e-4847-b2bb-fbf6a791ca68">
 <img width="410" alt="image" src="https://github.com/Kathygg95/RockPaperScissorsByKathy95/assets/133057798/95b2ef0e-4ac6-4c0b-8113-81741ec2dfbb">
 
-
+# Link to play the game
+https://replit.com/@Kathygg95/RockPaperScissors
 
 
 
